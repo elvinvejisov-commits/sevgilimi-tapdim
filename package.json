@@ -10,7 +10,6 @@
 "engines": {
     "node": "20.x"
   },
-  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^11.8.1",
